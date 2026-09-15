@@ -61,6 +61,15 @@ export function orderCategories<T extends { category: string }>(groups: T[]): T[
   });
 }
 
+/**
+ * Drops the trailing metric weight from a serving size string (e.g.
+ * "3.2 oz (90.4 g)" -> "3.2 oz"), keeping only the imperial ounce amount for
+ * display. The source data (data/cookout_nutrition.json) is left untouched.
+ */
+export function formatServingSize(servingSize: string): string {
+  return servingSize.replace(/\s*\([^)]*\)\s*$/, "");
+}
+
 export function filterMenu(items: MenuItem[], query: string): MenuItem[] {
   const trimmed = query.trim().toLowerCase();
   if (!trimmed) return items;

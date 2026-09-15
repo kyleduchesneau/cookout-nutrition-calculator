@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import type { NutritionData } from "../types/nutrition";
-import { filterMenu, flattenMenu, groupByCategory, orderCategories } from "./menu";
+import { filterMenu, flattenMenu, formatServingSize, groupByCategory, orderCategories } from "./menu";
 
 function makeData(): NutritionData {
   return {
@@ -134,6 +134,18 @@ describe("orderCategories", () => {
       "Hot Dogs",
       "Beverages",
     ]);
+  });
+});
+
+describe("formatServingSize", () => {
+  it("drops the trailing metric weight, keeping the ounce amount", () => {
+    expect(formatServingSize("3.2 oz (90.4 g)")).toBe("3.2 oz");
+    expect(formatServingSize("Full Order 4.9 oz (138 g)")).toBe("Full Order 4.9 oz");
+    expect(formatServingSize("16 oz (453.6 g)")).toBe("16 oz");
+  });
+
+  it("leaves a serving size without a parenthetical untouched", () => {
+    expect(formatServingSize("3.2 oz")).toBe("3.2 oz");
   });
 });
 

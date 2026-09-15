@@ -75,7 +75,7 @@ describe("App", () => {
 
     const summary = screen.getByRole("region", { name: /your meal/i });
     expect(within(summary).getByText(/1 × small burger/i)).toBeInTheDocument();
-    expect(within(summary).getByText("245 kcal")).toBeInTheDocument();
+    expect(within(summary).getByText("245 cal")).toBeInTheDocument();
   });
 
   it("opens and closes the about modal", async () => {

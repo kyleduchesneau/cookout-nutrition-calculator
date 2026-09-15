@@ -35,7 +35,7 @@ export const NUTRIENT_LABELS: Record<NutrientField, string> = {
 };
 
 export const NUTRIENT_UNITS: Record<NutrientField, string> = {
-  calories: "kcal",
+  calories: "cal",
   total_fat_g: "g",
   saturated_fat_g: "g",
   trans_fat_g: "g",
