@@ -46,8 +46,9 @@ function App() {
             <p>Build a meal from Cook Out&rsquo;s menu and see estimated nutrition totals.</p>
             <p className="app__disclaimer">
               Not affiliated with Cook Out, Inc. Based on a PDF retrieved in September 2026.{" "}
-              {/* TODO: replace with the repo's actual GitHub URL once it's created */}
-              <a href="#">View this project on GitHub.</a>
+              <a href="https://github.com/kyleduchesneau/cookout-nutrition-calculator" target="_blank" rel="noreferrer">
+                View this project on GitHub.
+              </a>
             </p>
           </div>
         </div>
