@@ -1,5 +1,6 @@
 import { useCallback, useState } from "react";
 import "./App.css";
+import { AboutModal } from "./components/AboutModal";
 import { MealSummary } from "./components/MealSummary";
 import { MenuBrowser } from "./components/MenuBrowser";
 import type { MealState } from "./domain/mealCalculator";
@@ -8,6 +9,7 @@ import { useNutritionData } from "./hooks/useNutritionData";
 function App() {
   const data = useNutritionData();
   const [meal, setMeal] = useState<MealState>({});
+  const [isAboutOpen, setIsAboutOpen] = useState(false);
 
   const handleQuantityChange = useCallback((itemId: string, quantity: number) => {
     setMeal((prev) => {
@@ -51,8 +53,18 @@ function App() {
               </a>
             </p>
           </div>
+          <button
+            type="button"
+            className="app__about-button"
+            onClick={() => setIsAboutOpen(true)}
+            aria-label="About this app"
+          >
+            ?
+          </button>
         </div>
       </header>
+
+      {isAboutOpen && <AboutModal onClose={() => setIsAboutOpen(false)} />}
 
       <main className="app__main">
         {data.status === "loading" && (

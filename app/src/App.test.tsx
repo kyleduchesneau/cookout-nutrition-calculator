@@ -78,6 +78,34 @@ describe("App", () => {
     expect(within(summary).getByText("245 kcal")).toBeInTheDocument();
   });
 
+  it("opens and closes the about modal", async () => {
+    const user = userEvent.setup();
+    render(<App />);
+
+    await screen.findByText("Small Burger");
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+
+    await user.click(screen.getByRole("button", { name: /about this app/i }));
+    const dialog = await screen.findByRole("dialog", { name: /about this app/i });
+    expect(within(dialog).getByText(/what is this\?/i)).toBeInTheDocument();
+    expect(within(dialog).getByText(/what is cook out\?/i)).toBeInTheDocument();
+
+    await user.click(screen.getByRole("button", { name: /^close$/i }));
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+  });
+
+  it("closes the about modal on Escape", async () => {
+    const user = userEvent.setup();
+    render(<App />);
+
+    await screen.findByText("Small Burger");
+    await user.click(screen.getByRole("button", { name: /about this app/i }));
+    await screen.findByRole("dialog");
+
+    await user.keyboard("{Escape}");
+    expect(screen.queryByRole("dialog")).not.toBeInTheDocument();
+  });
+
   it("shows an error state when the data request fails", async () => {
     vi.stubGlobal(
       "fetch",
