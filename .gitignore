@@ -7,3 +7,6 @@ venv/
 
 # OS
 .DS_Store
+
+# Vercel project link
+.vercel
