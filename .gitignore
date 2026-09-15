@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+
+# Local tool/agent config
+.github/
+.claude/
+
+# OS
+.DS_Store

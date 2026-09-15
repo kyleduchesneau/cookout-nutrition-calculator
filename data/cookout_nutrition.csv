@@ -1,0 +1,156 @@
+category,name,serving_size,is_addon,calories,total_fat_g,saturated_fat_g,trans_fat_g,cholesterol_mg,sodium_mg,carbohydrates_g,dietary_fiber_g,sugar_g,protein_g,vitamin_a_pct_dv,vitamin_c_pct_dv,calcium_pct_dv,iron_pct_dv
+Fresh Homemade Char-Grilled Hamburgers,Small 1/8 lb,3.2 oz (90.4 g),False,245,8,3,1,37,309,27,0,4,14,0,0,11,15
+Fresh Homemade Char-Grilled Hamburgers,Regular 1/4 lb,4.4 oz (125 g),False,328,14,5,1,66,340,27,0,4,22,0,0,11,21
+Fresh Homemade Char-Grilled Hamburgers,Huge 1/2 lb,7.2 oz (202.6 g),False,516,26,10,2,132,410,27,0,4,40,0,0,11,34
+Fresh Homemade Char-Grilled Hamburgers,Big Double™,6.5 oz (184.5 g),False,311,13,4,1,60,126,27,0,4,20,0,0,0,20
+Fresh Homemade Char-Grilled Hamburgers,Everything,2 oz (56.6 g),True,91,8,1,0,4,301,5,1,3,1,1,2,0,1
+Fresh Homemade Char-Grilled Hamburgers,Cook Out® Style,4.5 oz (126.8 g),True,123,5,1,0,9,518,7,1,4,3,4,5,1,2
+Fresh Homemade Char-Grilled Hamburgers,Out West Style,2.46 oz (69.6 g),True,202,18,5,0,26,682,4,0,2,8,1,3,0,0
+Fresh Homemade Char-Grilled Hamburgers,Steak Style,2.6 oz (73.5 g),True,91,8,1,0,4,141,5,1,2,1,20,9,0,1
+Fresh Homemade Char-Grilled Hamburgers,Cheddar Style,3 oz (85.5 g),True,233,20,5,0,28,729,5,0,1,8,0,2,1,0
+Char-Grilled Chicken Breast,Char-Grilled Chicken Breast,6.67 oz (189.2 g),False,377,17,3,0,59,575,29,0,5,25,25,7,11,13
+Char-Grilled Chicken Breast,Orginal Style,.21 oz (6 g),True,393,18,3,0,60,624,31,0,7,25,25,7,11,13
+Char-Grilled Chicken Breast,Barbeque Style,0.8 oz (22.1 g),True,376,17,3,0,59,714,29,0,5,25,6,1,10,12
+Char-Grilled Chicken Breast,Cajun Style,1.68 oz (47.8 g),True,377,0,0,0,0,155,1,0,0,0,2,2,0,0
+Char-Grilled Chicken Breast,Club Style,2.9 oz (84 g),True,565,17,3,0,59,575,29,0,5,25,25,7,11,13
+Char-Grilled Chicken Breast,Cheddar Style,3 oz (85.5 g),True,534,30,7,0,83,1245,32,0,5,33,5,2,11,12
+Hot Crispy Spicy Chicken Breast Fillet,Spicy Chicken Breast,5.61 oz (159 g),False,446,18,3,0,39,1158,45,2,5,21,24,9,12,17
+Hot Crispy Spicy Chicken Breast Fillet,Cheese Style,3 oz (85.5 g),True,634,35,10,0,81,1942,46,2,5,32,28,9,32,17
+Chopped Pork Barbeque,Reg BBQ Sandwich,8.8 oz (249.5 g),False,368,12,3,0,66,1103,35,1,9,29,5,5,15,18
+Chopped Pork Barbeque,BBQ Plate,17.3 oz (491.6 g),False,976,43,10,0,96,2445,105,10,21,35,6,19,21,29
+Char-Grilled Hot Dogs,Hot Dog,2.9 oz (81 g),False,260,15,5,0,25,600,22,0,3,8,0,5,8,6
+Char-Grilled Hot Dogs,Cook Out® Style Hot Dog,6.2 oz (176 g),False,383,20,6,0,34,1118,29,1,7,11,4,10,9,8
+Char-Grilled Hot Dogs,Mexi Hot Dog,7.3 oz (207.8 g),False,385,19,6,0,36,1352,29,1,5,12,26,16,9,9
+Char-Grilled Hot Dogs,Bacon Cheddar Hot Dog,4.62 oz (131 g),False,523,29,9,0,49,1494,47,0,6,19,0,5,17,12
+Crispy Chicken Wraps,Cajun Wrap,6 oz (170 g),False,501,27,11,0,54,1285,44,2,0,25,5,0,35,10
+Crispy Chicken Wraps,Ranch Wrap,6.1 oz (174.2 g),False,522,29,12,0,56,1273,44,2,0,25,5,0,35,10
+Crispy Chicken Wraps,Honey Mustard Wrap,6.2 oz (175.2 g),False,517,28,11,0,55,1279,46,2,2,25,5,0,35,10
+Homemade Style Chicken Strips,Chicken Strips (3),8.25 oz (234 g),False,660,33,5,0,60,2130,60,3,0,36,0,0,6,6
+Homemade Style Chicken Strips,Chicken Strip Sandwich,11.6 oz (330 g),False,674,32,4,0,45,1804,71,2,7,28,20,7,14,13
+Homemade Style Chicken Strips,Chicken Strip Club,1.45 oz (41 g),True,846,48,11,0,86,2539,70,2,5,39,24,7,34,13
+Quesadillas,Cheese,3.5 oz (98.2 g),False,355,23,11,0,39,644,24,1,1,13,6,0,33,9
+Quesadillas,Chicken,4.3 oz (123 g),False,449,28,12,0,54,788,31,1,2,19,12,2,36,12
+Quesadillas,Beef,4.5 oz (126.5 g),False,514,29,13,0,63,845,42,1,3,22,6,0,40,19
+Sides/Other Menu Items,Onion Rings,Full Order 4.9 oz (138 g),False,256,2,0,0,0,656,56,3,6,6,0,6,0,3
+Sides/Other Menu Items,Onion Rings,Side 2.4 oz (69 g),False,128,1,0,0,0,328,28,2,3,3,0,3,0,2
+Sides/Other Menu Items,Chicken Nuggets,Full Order 2.9 oz (81.7 g),False,240,18,4,0,95,540,12,0,0,16,0,0,0,8
+Sides/Other Menu Items,Chicken Nuggets,Side 1.7 oz (49 g),False,144,11,2,0,57,324,7,0,0,10,0,0,0,5
+Sides/Other Menu Items,BLT Sandwich,4.3 oz (123 g),False,392,25,7,0,37,1054,29,0,5,15,20,7,10,9
+Sides/Other Menu Items,Bacon Ranch Wrap,2.62 oz (41 g),False,419,28,14,0,58,1047,24,1,0,20,5,0,33,8
+Sides/Other Menu Items,Corn Dog,2.7 oz (76 g),False,220,11,4,0,20,440,26,0,7,5,0,2,2,6
+Sides/Other Menu Items,Cheese Dog,2.3 oz (66 g),False,146,3,1,0,2,410,25,0,3,3,0,0,9,6
+Sides/Other Menu Items,Mustard Relish Hot Dog,3.6 oz (102 g),False,394,16,5,0,25,1021,50,0,10,11,4,5,16,13
+Sides/Other Menu Items,Side of Chili,3.5 oz (98 g),False,164,3,1,0,17,917,4,1,2,5,8,4,0,4
+Sides/Other Menu Items,Side of Slaw,4 oz (113.4 g),False,405,32,5,0,16,434,30,1,29,0,2,10,1,1
+Sides/Other Menu Items,Hushpuppies,Full Order 6 oz (170.2 g),False,600,18,5,0,30,1440,93,9,21,3,0,0,30,24
+Sides/Other Menu Items,Hushpuppies,Side 3 oz (85.1 g),False,300,9,2,0,15,720,47,5,11,2,0,0,15,12
+Sides/Other Menu Items,Large Fries,8.4 oz (238.1 g),False,694,34,6,0,0,1374,89,9,1,7,0,24,0,10
+Sides/Other Menu Items,Regular Fries,4.2 oz (119.8 g),False,347,17,3,0,0,687,45,4,0,4,0,12,0,5
+Sides/Other Menu Items,Cook Out Fries,6.9 oz (195.8 g),False,465,21,4,0,11,1335,49,5,1,7,4,14,1,7
+Sides/Other Menu Items,Okra,2.95 oz (84 g),False,228,13,2,0,0,665,26,2,3,3,0,4,4,2
+Sides/Other Menu Items,Cook Out Rounds,Full Order 4.90 oz (139 g),False,298,17,4,0,25,745,30,5,2,8,7,0,17,3
+Sides/Other Menu Items,Cook Out Rounds,Side 2.45 oz (69.50 g),False,149,8,2,0,12,372,15,2,1,4,3,0,8,2
+Sides/Other Menu Items,Cheese Curds,Full Order 3.00 oz (85 g),False,299,19,11,0,63,560,14,0,1,16,14,0,43,4
+Sides/Other Menu Items,Cheese Curds,Side 1.50 oz (42.50 g),False,150,10,5,0,31,280,7,0,0,8,7,0,22,2
+Beverages,Coca-Cola® (Huge),32 oz (907.2 g),False,280,0,0,0,0,0,78,0,78,0,0,0,0,0
+Beverages,Coca-Cola® (Large),24 oz (680.4 g),False,210,0,0,0,0,0,59,0,59,0,0,0,0,0
+Beverages,Coca-Cola® (Regular),16 oz (453.6 g),False,140,0,0,0,0,0,39,0,39,0,0,0,0,0
+Beverages,Coca-Cola® (Small),12 oz (340.19 g),False,105,0,0,0,0,0,29,0,29,0,0,0,0,0
+Beverages,Diet Coke® (Huge),32 oz (907.2 g),False,0,0,0,0,0,20,0,0,0,0,0,0,0,0
+Beverages,Diet Coke® (Large),24 oz (680.4 g),False,0,0,0,0,0,15,0,0,0,0,0,0,0,0
+Beverages,Diet Coke® (Regular),16 oz (453.6 g),False,0,0,0,0,0,10,0,0,0,0,0,0,0,0
+Beverages,Diet Coke® (Small),12 oz (340.19 g),False,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+Beverages,Coca-Cola® Zero (Huge),32 oz (907.2 g),False,0,0,0,0,0,16,0,0,0,0,0,0,0,0
+Beverages,Coca-Cola® Zero (Large),24 oz (680.4 g),False,0,0,0,0,0,12,0,0,0,0,0,0,0,0
+Beverages,Coca-Cola® Zero (Regular),16 oz (453.6 g),False,0,0,0,0,0,8,0,0,0,0,0,0,0,0
+Beverages,Coca-Cola® Zero (Small),12 oz (340.19 g),False,0,0,0,0,0,6,0,0,0,0,0,0,0,0
+Beverages,Sprite® (Huge),32 oz (907.2 g),False,289,0,0,0,0,65,65,0,65,0,0,0,0,0
+Beverages,Sprite® (Large),24 oz (680.4 g),False,222,0,0,0,0,50,50,0,50,0,0,0,0,0
+Beverages,Sprite® (Regular),16 oz (453.6 g),False,139,0,0,0,0,31,31,0,31,0,0,0,0,0
+Beverages,Sprite® (Small),12 oz (340.19 g),False,104,0,0,0,0,23,23,0,23,0,0,0,0,0
+Beverages,Pibb® Xtra (Huge),32 oz (907.2 g),False,290,0,0,0,0,45,79,0,79,0,0,0,0,0
+Beverages,Pibb® Xtra (Large),24 oz (680.4 g),False,218,0,0,0,0,34,59,0,59,0,0,0,0,0
+Beverages,Pibb® Xtra (Regular),16 oz (453.6 g),False,145,0,0,0,0,23,40,0,40,0,0,0,0,0
+Beverages,Pibb® Xtra (Small),12 oz (340.19 g),False,109,0,0,0,0,17,30,0,30,0,0,0,0,0
+Beverages,Mellow Yellow (Huge),32 oz (907.2 g),False,288,0,0,0,0,32,77,0,77,0,0,0,0,0
+Beverages,Mellow Yellow (Large),24 oz (680.4 g),False,209,0,0,0,0,23,56,0,56,0,0,0,0,0
+Beverages,Mellow Yellow (Regular),16 oz (453.6 g),False,144,0,0,0,0,16,38,0,38,0,0,0,0,0
+Beverages,Mellow Yellow (Small),12 oz (340.19 g),False,108,0,0,0,0,12,29,0,29,0,0,0,0,0
+Beverages,Fanta Orange® (Huge),32 oz (907.2 g),False,302,0,0,0,0,86,89,0,88,0,0,0,0,0
+Beverages,Fanta Orange® (Large),24 oz (680.4 g),False,227,0,0,0,0,65,67,0,66,0,0,0,0,0
+Beverages,Fanta Orange® (Regular),16 oz (453.6 g),False,151,0,0,0,0,43,45,0,44,0,0,0,0,0
+Beverages,Fanta Orange® (Small),12 oz (340.19 g),False,113,0,0,0,0,32,33,0,33,0,0,0,0,0
+Beverages,Hi-C® Poppin' Pink Lemonade (Huge),32 oz (907.2 g),False,280,0,0,0,0,130,73,0,73,0,0,0,0,0
+Beverages,Hi-C® Poppin' Pink Lemonade (Large),24 oz (680.4 g),False,210,0,0,0,0,98,55,0,55,0,0,0,0,0
+Beverages,Hi-C® Poppin' Pink Lemonade (Regular),16 oz (453.6 g),False,140,0,0,0,0,65,37,0,37,0,0,0,0,0
+Beverages,Hi-C® Poppin' Pink Lemonade (Small),12 oz (340.19 g),False,105,0,0,0,0,49,27,0,27,0,0,0,0,0
+Beverages,Hi-C® Fruit Punch (Huge),32 oz (907.2 g),False,317,0,0,0,0,108,89,0,88,0,0,0,0,0
+Beverages,Hi-C® Fruit Punch (Large),24 oz (680.4 g),False,238,0,0,0,0,81,67,0,66,0,0,0,0,0
+Beverages,Hi-C® Fruit Punch (Regular),16 oz (453.6 g),False,158,0,0,0,0,54,45,0,44,0,0,0,0,0
+Beverages,Hi-C® Fruit Punch (Small),12 oz (340.19 g),False,119,0,0,0,0,41,33,0,33,0,0,0,0,0
+Beverages,Fresh Brewed Sweet Tea (Huge),32 oz (907.2 g),False,330,0,0,0,0,2,148,0,148,0,0,0,2,0
+Beverages,Fresh Brewed Sweet Tea (Large),24 oz (680.4 g),False,248,0,0,0,0,1,111,0,111,0,0,0,1,0
+Beverages,Fresh Brewed Sweet Tea (Regular),16 oz (453.6 g),False,236,0,0,0,0,1,74,0,74,0,0,0,1,0
+Beverages,Fresh Brewed Sweet Tea (Small),12 oz (340.19 g),False,177,0,0,0,0,1,56,0,55,0,0,0,0,0
+Beverages,Fresh Brewed Tea (Huge),32 oz (907.2 g),False,0,0,0,0,0,2,0,0,0,0,0,0,0,0
+Beverages,Fresh Brewed Tea (Large),24 oz (680.4 g),False,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Beverages,Fresh Brewed Tea (Regular),16 oz (453.6 g),False,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Beverages,Fresh Brewed Tea (Small),12 oz (340.19 g),False,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Beverages,Dr. Pepper® (Huge),32 oz (907.2 g),False,280,0,0,0,0,90,74,0,70,0,0,0,0,0
+Beverages,Dr. Pepper® (Large),24 oz (680.4 g),False,210,0,0,0,0,68,56,0,53,0,0,0,0,0
+Beverages,Dr. Pepper® (Regular),16 oz (453.6 g),False,140,0,0,0,0,45,37,0,35,0,0,0,0,0
+Beverages,Dr. Pepper® (Small),12 oz (340.19 g),False,105,0,0,0,0,34,28,0,26,0,0,0,0,0
+Beverages,Cheerwine® (Huge),32 oz (907.2 g),False,288,0,0,0,0,49,81,0,81,0,0,0,0,0
+Beverages,Cheerwine® (Large),24 oz (680.4 g),False,216,0,0,0,0,37,60,0,60,0,0,0,0,0
+Beverages,Cheerwine® (Regular),16 oz (453.6 g),False,144,0,0,0,0,24,40,0,40,0,0,0,0,0
+Beverages,Cheerwine® (Small),12 oz (340.19 g),False,108,0,0,0,0,18,30,0,30,0,0,0,0,0
+Beverages,Powerade® Mountain Blast (Huge),32 oz (907.2 g),False,149,0,0,0,0,149,40.5,0,41,0,0,0,0,0
+Beverages,Powerade® Mountain Blast (Large),24 oz (680.4 g),False,109,0,0,0,0,109,29.5,0,29,0,0,0,0,0
+Beverages,Powerade® Mountain Blast (Regular),16 oz (453.6 g),False,74.7,0,0,0,0,74.7,20.3,0,20,0,0,0,0,0
+Beverages,Powerade® Mountain Blast (Small),12 oz (340.19 g),False,56,0,0,0,0,56,15.2,0,15,0,0,0,0,0
+Beverages,Coke® Float,16 oz (453.59 g),False,399,11,7,0,37,293,69,0,67,10,35,4,33,0
+Beverages,Cheerwine® Float,16 oz (453.59 g),False,401,11,7,0,37,303,69,0,67,10,35,4,33,0
+Fancy Milkshakes,Vanilla,32.9 oz (934 g),False,555,18,11,0,59,469,86,0,83,16,55,6,53,0
+Fancy Milkshakes,Hershey's® Chocolate,32.9 oz (934 g),False,620,18,11,0,59,484,110,0,103,16,55,6,53,0
+Fancy Milkshakes,Strawberry,32.8 oz (929.6 g),False,610,17,10,0,55,455,105,0,99,15,52,21,50,0
+Fancy Milkshakes,Fresh Banana,30.9 oz (876.3 g),False,538,16,9,0,51,412,89,2,80,15,50,14,47,1
+Fancy Milkshakes,Banana Berry,33.6 oz (952.8 g),False,671,16,9,0,51,440,123,3,111,15,50,30,47,2
+Fancy Milkshakes,Banana Nut,32.1 oz (907.8 g),False,704,27,11,0,51,412,103,3,92,15,50,14,47,2
+Fancy Milkshakes,Banana Fudge,33.5 oz (950.3 g),False,772,24,16,0,51,470,130,2,111,17,50,14,51,4
+Fancy Milkshakes,Banana Pineapple,32 oz (907.3 g),False,566,16,9,0,51,412,96,2,86,15,50,19,47,1
+Fancy Milkshakes,Banana Pudding,34.7 oz (928.3 g),False,781,26,12,0,141,611,126,2,99,16,50,14,47,7
+Fancy Milkshakes,Blueberry,32.9 oz (933.6 g),False,617,17,10,0,55,464,107,0,101,15,52,22,50,0
+Fancy Milkshakes,Chocolate Cherry,32.3 oz (914.6 g),False,665,17,10,0,55,472,123,2,116,15,52,6,50,2
+Fancy Milkshakes,Red Cherry,32.3 oz (916.6 g),False,600,17,10,0,55,457,99,2,96,15,52,6,50,2
+Fancy Milkshakes,Fresh Peanut Butter,32.8 oz (930.6 g),False,847,45,15,0,55,698,91,3,83,27,52,6,50,3
+Fancy Milkshakes,Peanut Butter Banana,32.8 oz (931.3 g),False,864,43,14,0,51,669,99,5,85,27,50,14,47,4
+Fancy Milkshakes,Peanut Butter Fudge,33.2 oz (940.6 g),False,765,34,15,0,51,569,101,2,91,21,49,6,49,4
+Fancy Milkshakes,Cappuccino,31.9 oz (904 g),False,555,18,11,0,59,469,86,0,83,16,55,6,53,0
+Fancy Milkshakes,Caramel Fudge,32.8 oz (928.6 g),False,677,21,13,0,55,509,111,0,102,16,52,6,52,2
+Fancy Milkshakes,Caramel,33.51 oz (950 g),False,560,17,10,0,55,480,91,0,87,15,52,6,50,0
+Fancy Milkshakes,Pineapple,33 oz (937.6 g),False,575,17,10,0,55,440,94,1,91,16,52,16,51,0
+Fancy Milkshakes,Snickers®,32.4 oz (917.6 g),False,720,27,14,0,65,540,107,0,100,19,52,6,54,0
+Fancy Milkshakes,Hi-C Punch®,31.9 oz (904 g),False,598,17,10,0,55,447,102,0,99,15,52,6,50,0
+Fancy Milkshakes,Walnut,33.1 oz (938.6 g),False,853,40,13,0,55,440,109,4,103,15,52,6,50,4
+Fancy Milkshakes,Oreo®,33 oz (935.6 g),False,802,29,14,0,55,678,125,2,103,17,52,6,50,14
+Fancy Milkshakes,M&M®,32.6 oz (924.6 g),False,755,27,16,0,65,469,114,2,107,17,52,6,54,0
+Fancy Milkshakes,Oreo® Mint,33 oz (935.6 g),False,853,29,14,0,55,678,138,2,115,17,52,6,50,14
+Fancy Milkshakes,Peach,32.7 oz (925.6 g),False,547,17,10,0,55,442,91,0,86,15,54,8,50,0
+Fancy Milkshakes,Chocolate Chip,34.46 oz (977 g),False,783,32,20,0,64,472,107,4,103,18,55,6,53,43
+Fancy Milkshakes,Chocolate Chip Mint,35 oz (993 g),False,834,32,20,0,64,472,120,4,115,18,55,6,53,43
+Fancy Milkshakes,Chocolate Nut,33.4 oz (946.1 g),False,752,28,11,0,55,455,119,2,110,15,52,6,50,2
+Fancy Milkshakes,Mocha,35.32 oz (1001.4 g),False,620,18,11,0,59,484,110,0,103,16,55,6,53,0
+Fancy Milkshakes,Peach Cobbler,34.5 oz (977.6 g),False,790,27,13,0,145,641,127,0,105,17,54,8,50,7
+Fancy Milkshakes,Reese's® Cup,33.4 oz (947.6 g),False,894,37,19,0,55,699,121,3,115,24,52,6,56,6
+Fancy Milkshakes,Orange Push Up,33.95 oz (962.4 g),False,638,18,11,0,59,469,109,0,106,16,55,101,53,0
+Fancy Milkshakes,Cherry Cobbler,34.2 oz (968.6 g),False,842,27,13,0,145,656,135,2,115,17,52,6,50,9
+Fancy Milkshakes,Chocolate Malt,34.7 oz (985 g),False,671,19,11,0,62,541,119,0,109,17,55,6,56,0
+Fancy Milkshakes,Heath® Toffee,32.1 oz (909.6 g),False,701,28,16,0,66,565,101,0,98,15,52,6,50,0
+Fancy Milkshakes,Cherry Cheesecake,34 oz (964.3 g),False,925,42,23,1,171,698,119,2,115,21,59,6,55,4
+Fancy Milkshakes,Double Chocolate,33.6 oz (953.6 g),False,651,17,10,0,55,470,129,0,118,15,52,6,50,0
+Fancy Milkshakes,Fresh Watermelon,35 oz (992.3 g),False,645,16,9,0,51,413,89,1,84,15,55,23,48,2
+Fancy Milkshakes,Philadelphia® Cheesecake,32.6 oz (923.3 g),False,845,42,23,1,171,681,101,0,97,21,59,6,55,2
+Fancy Milkshakes,Nilla® Wafers,32.7 oz (927.6 g),False,763,27,13,0,145,639,117,0,97,17,52,6,50,7
+Fancy Milkshakes,Mint,33.5 oz (950 g),False,605,18,11,0,59,469,99,0,96,16,55,6,53,0
+Fancy Milkshakes,Malted Milk,33.4 oz (946 g),False,606,19,11,0,62,526,95,0,89,17,55,6,56,0
+Fancy Milkshakes,Fudge,33.5 oz (949.6 g),False,754,25,17,0,55,498,122,0,109,17,52,6,54,4
